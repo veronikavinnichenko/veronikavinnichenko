@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Veronika</h1>
 <h3 align="center">Data scientist from Saint Petersburg, Russia</h3>
 
-- 🔭 I’m currently working on **thesis about hyperpersonalization of music recommendations**
+- 🔭 I’m currently working on thesis about **hyperpersonalization of music recommendations**
   
 - 🔎 I'm currently learning **NLP and RecSys**
 
