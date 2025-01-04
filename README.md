@@ -12,6 +12,10 @@
 
 - 📄 Know about my experiences:  [CV](https://docs.google.com/document/d/10A6GbQEm_iZ6hQDqBBZhDTKLraJk53RsyN1H4c4FBMk/edit)
 
+### Competitions🤼: 
+- ML Talent Match (2024 - An algorithm for matching resumes and vacancies)
+- BIV Hack Challenge 🥇 (2024 - Automating payment processing)
+- FITZ: Hackathon 🥈 (2024 - Assessment of the level of expertise based on the resume)
 
 ### 👩‍🎓 Education:
 - Bachelor's in political science (Higher School of Economics) (2019-2023)
