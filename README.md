@@ -14,8 +14,8 @@
 
 ### Competitions🤼: 
 - [ML Talent Match](https://www.хакатоны.рус/tpost/ycfxdngll1-ml-talentmatch) (2024 - An algorithm for matching resumes and vacancies)
-- BIV Hack Challenge 🥇 (2024 - Automating payment processing)
-- FITZ: Hackathon 🥈 (2024 - Assessment of the level of expertise based on the resume)
+- [BIV Hack Challenge](https://biv-challenge.ru/?utm_source=telegram&utm_medium=cpc&utm_campaign=datascienceml_jobs&utm_term=hakaton-biv-hack-challenge) 🥇 (2024 - Automating payment processing)
+- [FITZ: Hackathon](https://xn--2024-94d5ep.xn--p1ai/hackathon)🥈 (2024 - Assessment of the level of expertise based on the resume)
 
 ### 👩‍🎓 Education:
 - Bachelor's in political science (Higher School of Economics) (2019-2023)
