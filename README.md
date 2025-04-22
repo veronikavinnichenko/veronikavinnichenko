@@ -10,7 +10,7 @@
 
 - 📫 Write me an email: **veronica.vinnichenko@yandex.ru**
 
-- 📄 Know about my experiences:  [CV](https://docs.google.com/document/d/10A6GbQEm_iZ6hQDqBBZhDTKLraJk53RsyN1H4c4FBMk/edit)
+- 📄 Know about my experiences:  [CV](https://docs.google.com/document/d/1hbora6eidf-gff3N3lal7VBiKk7Tog_A5OznUjut674/edit?usp=drivesdkiZ6hQDqBBZhDTKLraJk53RsyN1H4c4FBMk/edit)
 
 ### Competitions🤼: 
 - [ML Talent Match](https://www.хакатоны.рус/tpost/ycfxdngll1-ml-talentmatch) (2024 - An algorithm for matching resumes and vacancies)
